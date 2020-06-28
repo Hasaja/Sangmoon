@@ -15,9 +15,6 @@ a{
     text-decoration: none;
     color: white;
 }
-p{
-    margin: 10px;
-}
 
 .main{
     margin-left: 20px;
@@ -53,6 +50,15 @@ p{
     font-size: 15px;
     font-weight: lighter;
     margin-left: 20px;
+}
+#toggleDes{
+    margin: 0px;
+}
+#inExam{
+    margin: 10px;
+}
+#SAT{
+    margin: 10px;
 }
 
 
