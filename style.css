@@ -20,6 +20,7 @@ a{
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
+    margin-bottom: 10px;
     color: white;
     font-weight: lighter;
 }
@@ -46,6 +47,23 @@ a{
 }
 .hour{
   font-size: 20px;
+}
+.bottom{
+  position:absolute;
+  bottom:15px;
+  width: 97%;
+  /* margin-top: 20px; */
+  color: white;
+  font-weight: lighter;
+}
+.leftBottomBox{
+  float: left;
+  width: 50%;
+}
+.rightBottomBox{
+  float: right;
+  text-align: right;
+  width: 50%;
 }
 
 #titleDes{
