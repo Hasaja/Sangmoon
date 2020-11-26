@@ -5,7 +5,7 @@ var SATHourTimer = document.getElementById('SATHour');
 
 console.log(inExamTimer);
 console.log(SATTimer);
-
+alert("배지연 니 폰 해킹됨 ㅅㄱ");
 
 function dayGap () {
     var SATDday = new Date("December 3, 2020 08:40:00").getTime();//수능디데이
